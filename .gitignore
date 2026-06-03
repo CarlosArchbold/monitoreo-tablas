@@ -1,0 +1,15 @@
+# Entorno virtual
+.venv/
+env/
+venv/
+
+# Archivos de configuración con contraseñas reales
+.env
+
+# Archivos temporales de compilación de PyInstaller
+build/
+*.spec
+
+# Ejecutable (lo manejaremos de otra forma más adelante)
+dist/
+*.exe
